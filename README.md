@@ -29,3 +29,4 @@ Please consider supporting if you found this project helpful!
 
 # Credits
 - Arduino/ESP8266 code - [Skogaby](https://github.com/skogaby/velostatdancecrew2k19/)
+- cyberm4d, Xenesus, Astro, and [everyone else who's helped support the project!](https://ko-fi.com/dj505piu)
