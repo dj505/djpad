@@ -3,7 +3,7 @@ Open source, accessible, and hopefully inexpensive velostat based PIU pad design
 ---
 Please consider supporting if you found this project helpful!
 
-<a href='https://ko-fi.com/Y8Y8106HR' target='_blank'><img align='center' height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p align='center'><a href='https://ko-fi.com/Y8Y8106HR' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
 
 # Features
 - Wifi hotspot for web based sensitivity adjustment (code by [skogaby](https://github.com/skogaby), modified CSS by me)
